@@ -1,0 +1,5 @@
+Calculus 1-C546-Dr.Blume-Carlos,Hunter,Scotty,Machiavelli,Charlemagne,Dante,Wolfgang
+Object Oriented Programming-O673-Dr.Justus-Carlos,Hunter,Scotty,Machiavelli,Charlemagne,Dante,Wolfgang
+Digital Electronics-D343-Dr.Vuglar-Carlos,Hunter,Scotty,Machiavelli,Charlemagne,Dante,Wolfgang
+Linear Algebra-A263-Dr.Varner-Carlos,Hunter,Scotty,Machiavelli,Charlemagne,Dante,Wolfgang
+Calculus 2-C238-Dr.Borjes-Carlos,Hunter,Scotty,Machiavelli,Charlemagne,Dante,Wolfgang

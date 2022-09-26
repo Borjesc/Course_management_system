@@ -1,0 +1,7 @@
+Carlos-carlosb-1234-8899-Calculus 1,A,Object Oriented Programming,A,Digital Electronics,C,Linear Algebra,A,Calculus 2,B
+Hunter-Carlosb-1434-1984-Calculus 1,D,Object Oriented Programming,A,Digital Electronics,B,Linear Algebra,C,Calculus 2,F
+Scotty-Scorr-1233-2956-Calculus 1,C,Object Oriented Programming,B,Digital Electronics,A,Linear Algebra,C,Calculus 2,F
+Machiavelli-ab-1234-2345-Calculus 1,A,Object Oriented Programming,A,Digital Electronics,A,Linear Algebra,A,Calculus 2,A
+Charlemagne-yt-2345-4583-Calculus 1,B,Object Oriented Programming,A,Digital Electronics,C,Linear Algebra,B,Calculus 2,C
+Dante-hi-3956-3922-Calculus 1,C,Object Oriented Programming,B,Digital Electronics,C,Linear Algebra,D,Calculus 2,A
+Wolfgang-ji-2682-9431-Calculus 1,A,Object Oriented Programming,C,Digital Electronics,D,Linear Algebra,B,Calculus 2,F
